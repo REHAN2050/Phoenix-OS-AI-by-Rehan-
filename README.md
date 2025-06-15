@@ -52,10 +52,21 @@
 
 ---
 
+## 📁 Explore More
+
+- 🔮 [Vision of Phoenix AI](document/vision.md)  
+- 🗺️ [Phoenix Roadmap](document/roadmap.md)  
+- 👤 [Credits & Supporters](document/credits.md)  
+- 🤖 [AI System Overview](core-ai/intro.md)  
+- 🧠 [Architecture](core-ai/architecture.md)  
+- 🧩 [Sample Agent Logic](core-ai/agent-sample.md)
+
+---
+
 ## 🧠 About the Creator
 
 > Created by **Rehan**,  
-> 🧠 Class 12 Student from India 🇮🇳  
+> 🧠 Student from India 🇮🇳  
 > 🔭 Passionate about future technology  
 > 🌐 Founder of **Phoenix Protocol**
 
@@ -71,12 +82,10 @@
 
 ---
 
-## 📁 Project Files (Once Ready)
+## 📜 License
 
-- [`core-ai/`](./core-ai) – AI brains & logic  
-- [`docs/roadmap.md`](./docs/roadmap.md) – Our 2025 plan  
-- [`docs/vision.md`](./docs/vision.md) – Philosophy & thinking  
-- [`assets/banner.png`](./assets/banner.png) – Cover Image
+MIT License © 2025 [REHAN](https://github.com/REHAN2050)  
+Use it. Improve it. But never forget who dreamt it.
 
 ---
 
