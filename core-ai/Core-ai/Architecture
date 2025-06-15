@@ -1,0 +1,17 @@
+# 🧠 Modular AI Architecture
+
+Phoenix OS AI is built with 3 layers:
+
+### 1. Input Layer
+- Accepts user files, chat, and instructions
+- Supports video, PDF, text, image
+
+### 2. AI Core Layer
+- Multiple AI modules work together
+- Can share output internally (based on permissions)
+
+### 3. Response Layer
+- Filters based on selected AI model
+- Final response is given in the user’s selected format
+
+> This system is designed to evolve as models improve.
